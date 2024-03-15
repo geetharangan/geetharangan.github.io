@@ -2,7 +2,7 @@ openapi: 3.0.3
 externalDocs:
     url: https://openapi-map.apihandyman.io/
 info:
-    title: learning, training, r&d
+    title: learning, training, r&d, check
     version: 0.0.1
     contact:
         email: geethalakshmi.ranganathan@expleogroup.com
